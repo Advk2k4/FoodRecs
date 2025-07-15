@@ -6,7 +6,7 @@ A real-time restaurant locator web app built using **Streamlit**, **Folium**, an
 
 ## 📸 Preview
 
-![App Screenshot](assets/screenshot.png) <!-- Update path if needed -->
+![App Screenshot](Preview.jpeg) <!-- Update path if needed -->
 
 ---
 
