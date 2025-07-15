@@ -27,7 +27,6 @@ A real-time restaurant locator web app built using **Streamlit**, **Folium**, an
 * **Mapping**: [Folium](https://python-visualization.github.io/folium/)
 * **Geocoding**: [Geopy](https://geopy.readthedocs.io/)
 * **Places API**: [Geoapify](https://www.geoapify.com/)
-* **Styling**: Custom CSS, Google Fonts
 
 ---
 
